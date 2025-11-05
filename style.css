@@ -11,6 +11,5 @@ h3 {
     font-family: 'Arial', sans-serif;
 }
 * {
-    background-color: burlywood;
-    border: #090c9e 2px solid;
+    background-color: rgb(207, 198, 185);   
 }
